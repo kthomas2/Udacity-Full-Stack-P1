@@ -1,6 +1,3 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
-
 ## Fresh Tomatoes Movie Trailer Website
 
 Udacity - Full Stack Web Developer Nanodegree
