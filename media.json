@@ -1,0 +1,26 @@
+[  
+    {"title": "Christmas Vacation",
+     "poster_image_url": "http://img.moviepostershop.com/national-lampoons-christmas-vacation-movie-poster-1989-1020196034.jpg",
+     "trailer_youtube_url": "https://www.youtube.com/watch?v=tLVd4ipC5Lc"
+    },
+    {"title": "Austin Powers",
+     "poster_image_url": "http://img.moviepostershop.com/austin-powers-international-man-of-mystery-movie-poster-1997-1020205322.jpg",
+     "trailer_youtube_url": "https://www.youtube.com/watch?v=Oze1bn4_pbk"
+    },
+    {"title": "Under the Tuscan Sun",
+     "poster_image_url": "http://img.moviepostershop.com/under-the-tuscan-sun-movie-poster-2003-1020190770.jpg",
+     "trailer_youtube_url": "https://www.youtube.com/watch?v=dNZJnLN8irw"
+    },
+    {"title": "Beauty and the Beast",
+     "poster_image_url": "https://vignette.wikia.nocookie.net/disney/images/6/6e/Beauty_and_the_Beast_%28Diamond_Edition_2010%29.jpg/revision/latest?cb=20121006213309",
+     "trailer_youtube_url": "https://www.youtube.com/watch?v=xD5pcGp62ec"
+    },
+    {"title": "The Help",
+     "poster_image_url": "http://img.moviepostershop.com/the-help-movie-poster-2011-1020701031.jpg",
+     "trailer_youtube_url": "https://www.youtube.com/watch?v=8vKvhqDqtU0"
+    },
+    {"title": "The Notebook",
+     "poster_image_url": "http://img.moviepostershop.com/the-notebook-movie-poster-2004-1020201853.jpg",
+     "trailer_youtube_url": "https://www.youtube.com/watch?v=8LsJl1B4V-E"
+    }
+]
